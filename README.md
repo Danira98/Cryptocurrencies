@@ -8,7 +8,7 @@ In this project, we are helping Martha convinse her firm named Accountability Ac
 
 ### Purpose
 
-The purpose of this project is to create a clustering algorithm in which we process our data, cluster it, reduce its dimensions, and reduce the principal components using Principal Component Analysis(PCA). After creating this algorithm, we will present our findings using data visualizations that can be used in a presentation to show the company which cryptocurrencies would be ideal to present to its customers as investment.
+The purpose of this project is to create a clustering algorithm in which we process our data, cluster it, reduce its dimensions, and reduce the data with principal components using the Principal Component Analysis(PCA) approach. After creating this algorithm, we will present our findings using data visualizations that can be used in a presentation to show the company which cryptocurrencies would be ideal to present to its customers as investment.
 
 
 ## Results
