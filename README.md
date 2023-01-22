@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this project, we are helping Martha convinse her firm named Accountability Accounting to make the decision on investing in cryptocurrencies, and ultimately provide which ones will be worth investing on. We are provided with a dataset of newer,affordable, cryptocurrencies that are worth considering, and we are given the task to create an algorithm that will help us persuade the firm to invest in them.
+In this project, we are helping Martha convincse her firm named Accountability Accounting to make the decision on investing in cryptocurrencies, and ultimately provide which ones will be worth investing on. We are provided with a dataset of newer,affordable, cryptocurrencies that are worth considering, and we are given the task to create an algorithm that will help us persuade the firm to invest in them.
 
 ### Purpose
 
@@ -13,7 +13,7 @@ The purpose of this project is to create a clustering algorithm in which we proc
 
 ## Results
 
-We were able to create a clustering algorithm that met all the requirements we were given to cluster our data. For our first visualization, we decided to show how our data was clustered using a 3D plot which uses the three principal components of our algorithm P1, P2, P3 as its axis. In this plot, we show how our data is broken down into 5 different clusters that are symbolized by a different object. The following image shows said plot:
+We were able to create a clustering algorithm that met all the requirements we were given to cluster our data. For our first visualization, we decided to show how our data was clustered using a 3D plot which uses the three principal components of our algorithm P1, P2, P3 as its axis. In this plot, we show how our data is broken down into 4 different clusters that are symbolized by a different object. The following image shows said plot:
 
 ![PCA_3D](https://user-images.githubusercontent.com/111034667/213945229-277acd2d-2b72-4fb6-9ebc-14c7b3112748.png)
 
