@@ -21,7 +21,7 @@ Additionally, we created a table that contains all of the information of the tra
 
 ![table_crypto](https://user-images.githubusercontent.com/111034667/213945367-c67d46fc-f2c9-4c46-b675-5497585246d3.png)
 
-Lastly, we created a scatter plot using the columns of TotalCoinsMined as our x axis and TotalCoinSupply as our y axis. In this plot, we plotted all of the tradable cryptocurrencies and if we hover over each point, we are able to get the value of both the TotalCoinsMinded and TotalCoinSupply, but additionally, we are able to see the name of that currency. This plot allows us also to look at cryptocurrencies per class. This is a great resource Martha and the company can use to present the cryptocurrencies the customers can pick from for their investment. The following image shows the scatter plot:
+Lastly, we created a scatter plot using the columns of TotalCoinsMined as our x axis and TotalCoinSupply as our y axis. In this plot, we plotted all of the tradable cryptocurrencies and if we hover over each point, we are able to get the value of both the TotalCoinsMined and TotalCoinSupply. Additionally, we are able to see the name of that currency. This plot allows us also to look at cryptocurrencies per class if we select the class we want to observe and unselect the rest of the classes. This is a great resource Martha and the company can use to present the cryptocurrencies the customers can pick from for their investment. The following image shows the scatter plot:
 
 ![scatter_plot](https://user-images.githubusercontent.com/111034667/213945879-4e51edf1-67ed-4710-9c19-faaddef5bec2.png)
 
